@@ -1,6 +1,7 @@
 (5/12　17:00まで提出）
 # 1. EventStorming Model : Design Level
-![image](https://user-images.githubusercontent.com/31524855/237024794-ddee9a67-2a14-429d-ac04-2f8bb1d8d106.png)
+<!-- ![image](https://user-images.githubusercontent.com/31524855/237024794-ddee9a67-2a14-429d-ac04-2f8bb1d8d106.png) -->
+![image](https://user-images.githubusercontent.com/31524855/237029486-7403e44b-2ff3-4eb6-8fa6-7f1426963821.png)
 
 # 2. Saga (Pub / Sub)
 # 3. CQRS
