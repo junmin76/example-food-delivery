@@ -1,6 +1,15 @@
 <!-- ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png) -->
 ![image](https://user-images.githubusercontent.com/31524855/237024794-ddee9a67-2a14-429d-ac04-2f8bb1d8d106.png)
 
+(5/12　17:00まで提出）
+# 1. EventStorming Model : Design Level
+# 2. Saga (Pub / Sub)
+# 3. CQRS
+# 4. Compensation / Correlation
+
+
+
+
 # 예제 - 음식배달
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
